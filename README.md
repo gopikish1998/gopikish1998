@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Gopi Kishore Penumaka**
+#👋 Hi, I’m **Gopi Kishore Penumaka**
 - 👀 I’m interested in **Full Stack Web Development**
 - 🌱 I’m currently learning **MERN Stack**
 - 🤝 I'm a graduate in *Electrical Engineering* from **IIT Gandhinagar**
