@@ -1,8 +1,8 @@
-#👋 Hi, I’m **Gopi Kishore Penumaka**
+  # Hi, I’m **Gopi Kishore Penumaka**
 - 👀 I’m interested in **Full Stack Web Development**
 - 🌱 I’m currently learning **MERN Stack**
 - 🤝 I'm a graduate in *Electrical Engineering* from **IIT Gandhinagar**
-- 💞️ I’m looking to collaborate on frontend using **React JS**
+- 💞️ I’m looking to collaborate on frontend using **React JS** and on backend using **Node JS**
 - 📫 How to reach me ---> email:'kishorepenjendra@gmail.com'
 
 <!---
