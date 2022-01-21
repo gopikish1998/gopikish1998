@@ -12,7 +12,7 @@
 - 👀 I’m a **Full Stack Web Developer**
 - 🌱 I’m currently working on **MERN Stack**
 - 🤝 I'm a graduate in *Electrical Engineering* from **IIT Gandhinagar**
-- 📫 How to reach me email:'kishorepenjendra@gmail.com'
+- 📫 Reach me via email:'kishorepenjendra@gmail.com'
 
 <!---
 gopikish1998/gopikish1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
